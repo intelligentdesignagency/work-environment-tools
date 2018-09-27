@@ -19,3 +19,12 @@ return
 !F6::
 Send {Media_Play_Pause}
 return
+
+
+!F7::
+Send {Media_Pause}
+return
+
+!F8::
+Send {Media_Next}
+return
